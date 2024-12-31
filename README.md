@@ -1,6 +1,6 @@
 # Reloj Con Alarma 
-# Proyecto Final de Fundamentos de Electronica Digital 
-# Universidad de Antioquia
+Proyecto Final de Fundamentos de Electronica Digital 
+Universidad de Antioquia
 # Integrantes: 
   * Juan Camilo Chaparro Castellanos
   * Jorge Enrique Rueda Urrea
